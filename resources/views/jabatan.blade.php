@@ -26,7 +26,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
-                                <label for="example-text-input" class="form-control-label">Function</label>
+                                <label for="example-text-input" class="form-control-label">Job Position</label>
                                 <input class="form-control" type="text" value="Manager Operational">
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                   <thead>
                     <tr>
                       <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Name</th>
-                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Function</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Job Position</th>
                       <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Status</th>
                       <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Employed</th>
                       <th class="text-secondary opacity-7"></th>
