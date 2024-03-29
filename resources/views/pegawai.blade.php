@@ -14,7 +14,7 @@
                 Shafa Nabilah
               </h5>
               <p class="mb-0 font-weight-bold text-sm">
-                Public Relations
+                Manager Organization
               </p>
             </div>
           </div>
@@ -51,7 +51,6 @@
           <div class="card">
             <div class="card-header pb-0">
               <div class="d-flex align-items-center">
-                <p class="mb-0">Edit Profile</p>
                 <button class="btn btn-primary btn-sm ms-auto">Settings</button>
               </div>
             </div>
@@ -60,14 +59,14 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
-                    <label for="example-text-input" class="form-control-label">Username</label>
+                    <label for="example-text-input" class="form-control-label">Name</label>
                     <input class="form-control" type="text" value="ShafaNabilah">
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="form-group">
                     <label for="example-text-input" class="form-control-label">Position</label>
-                    <input class="form-control" type="email" value="Manager">
+                    <input class="form-control" type="email" value="Manager Organization">
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -89,19 +88,19 @@
                 <div class="col-md-12">
                   <div class="form-group">
                     <label for="example-text-input" class="form-control-label">Address</label>
-                    <input class="form-control" type="text" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09">
+                    <input class="form-control" type="text" value="Wonodadi 1">
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="form-group">
                     <label for="example-text-input" class="form-control-label">City</label>
-                    <input class="form-control" type="text" value="New York">
+                    <input class="form-control" type="text" value="Pontianak">
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="form-group">
                     <label for="example-text-input" class="form-control-label">Country</label>
-                    <input class="form-control" type="text" value="United States">
+                    <input class="form-control" type="text" value="Indonesia">
                   </div>
                 </div>
                 <div class="col-md-4">
@@ -117,7 +116,7 @@
                 <div class="col-md-12">
                   <div class="form-group">
                     <label for="example-text-input" class="form-control-label">About me</label>
-                    <input class="form-control" type="text" value="A beautiful Dashboard for Bootstrap 5. It is Free and Open Source.">
+                    <input class="form-control" type="text" value="I am a Manager Organization">
                   </div>
                 </div>
               </div>
@@ -165,13 +164,13 @@
               </div>
               <div class="text-center mt-4">
                 <h5>
-                  Fika aprillia<span class="font-weight-light">, 20</span>
+                  Shafa Nabilah<span class="font-weight-light">, 20</span>
                 </h5>
                 <div class="h6 font-weight-300">
                   <i class="ni location_pin mr-2"></i>Pontianak, Indonesia
                 </div>
                 <div class="h6 mt-4">
-                  <i class="ni business_briefcase-24 mr-2"></i>Solution Manager - Creative Tim Officer
+                  <i class="ni business_briefcase-24 mr-2"></i>Manager Operational
                 </div>
                 <div>
                   <i class="ni education_hat mr-2"></i>University of Computer Science

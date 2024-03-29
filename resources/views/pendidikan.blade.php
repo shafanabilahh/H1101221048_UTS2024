@@ -1,6 +1,46 @@
 @extends('layout.main')
 @section('content')
-<div class="row">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header pb-0">
+                    <div class="d-flex align-items-center">
+                        <p class="mb-0">Add Education Information</p>
+                        <button class="btn btn-primary btn-sm ms-auto">Add</button>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="example-text-input" class="form-control-label">Name</label>
+                                <input class="form-control" type="text" value="ShafaNabilah">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="example-text-input" class="form-control-label">Education Level</label>
+                                <input class="form-control" type="email" value="Magister">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="example-text-input" class="form-control-label">Educational Institution</label>
+                                <input class="form-control" type="text" value="University of Computer Science">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="example-text-input" class="form-control-label">Major</label>
+                                <input class="form-control" type="text" value="Information System">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
         <div class="col-md-7 mt-4">
           <div class="card">
             <div class="card-header pb-0 px-3">
@@ -113,7 +153,7 @@
                   <div class="d-flex align-items-center">
                     <button class="btn btn-icon-only btn-rounded btn-outline-success mb-0 me-3 btn-sm d-flex align-items-center justify-content-center"><i class="fas fa-arrow-up"></i></button>
                     <div class="d-flex flex-column">
-                      <h6 class="mb-1 text-dark text-sm">Edit</h6>
+                      <h6 class="mb-1 text-dark text-sm">Add</h6>
                       <span class="text-xs">27 March 2020, at 04:30 AM</span>
                     </div>
                   </div>
@@ -125,7 +165,7 @@
                   <div class="d-flex align-items-center">
                     <button class="btn btn-icon-only btn-rounded btn-outline-success mb-0 me-3 btn-sm d-flex align-items-center justify-content-center"><i class="fas fa-arrow-up"></i></button>
                     <div class="d-flex flex-column">
-                      <h6 class="mb-1 text-dark text-sm">Edit</h6>
+                      <h6 class="mb-1 text-dark text-sm">Add</h6>
                       <span class="text-xs">26 March 2020, at 13:45 PM</span>
                     </div>
                   </div>
@@ -134,7 +174,7 @@
                   <div class="d-flex align-items-center">
                     <button class="btn btn-icon-only btn-rounded btn-outline-success mb-0 me-3 btn-sm d-flex align-items-center justify-content-center"><i class="fas fa-arrow-up"></i></button>
                     <div class="d-flex flex-column">
-                      <h6 class="mb-1 text-dark text-sm">Edit</h6>
+                      <h6 class="mb-1 text-dark text-sm">Add</h6>
                       <span class="text-xs">26 March 2020, at 12:30 PM</span>
                     </div>
                   </div>
@@ -143,7 +183,7 @@
                   <div class="d-flex align-items-center">
                     <button class="btn btn-icon-only btn-rounded btn-outline-success mb-0 me-3 btn-sm d-flex align-items-center justify-content-center"><i class="fas fa-arrow-up"></i></button>
                     <div class="d-flex flex-column">
-                      <h6 class="mb-1 text-dark text-sm">Edit</h6>
+                      <h6 class="mb-1 text-dark text-sm">Add</h6>
                       <span class="text-xs">26 March 2020, at 08:30 AM</span>
                     </div>
                   </div>
